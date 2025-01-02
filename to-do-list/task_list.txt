@@ -1,0 +1,4 @@
+task: walk through stones and deadline: 2025,2,1
+task: eat an apple and deadline: 2025,3,1>>this task is completed
+task: writing and deadline: 2025,4,1
+task: running and deadline: 2025,5,1
