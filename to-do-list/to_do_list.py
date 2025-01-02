@@ -48,11 +48,9 @@ def delete_task():
        for i in a:
           f.write(f"{i}\n")
     print(a)
-         
     return None
 
 task()
-
 write_read()
 delete_task()
 
