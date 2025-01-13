@@ -23,8 +23,7 @@ def write_read():
     with open("task_list.txt", 'w')as f:
      for items in a:
       f.write(f"{items}\n")
-    msg_1 = "Here are the tasks."
-    print(msg_1)
+    print("Here are the tasks.")
     for i, j in enumerate(a, start=1):
        print(f"{i}.{j}")
     mark = int(input("Mark one of the above tasks as completed: "))
